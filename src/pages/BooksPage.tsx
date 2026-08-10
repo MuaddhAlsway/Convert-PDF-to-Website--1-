@@ -1,11 +1,11 @@
 import { useState } from "react"
 import Navbar from "../components/Navbar"
 import Footer from "../components/Footer"
-import iksirImg from "../public/إكسير.webp"
-import lankaImg from "../public/لأنك الله.webp"
-import suwarImg from "../public/معالم-السور-دار-الحضارة-بيت-الكتب.jpg"
-import thillImg from "../public/إلى الظل.webp"
-import tadabburImg from "../public/تدبر القرأم.webp"
+import iksirImg from "../public/iksir.webp"
+import lankaImg from "../public/lanka-allah.webp"
+import suwarImg from "../public/maalim-al-sur.jpg"
+import thillImg from "../public/althil.webp"
+import tadabburImg from "../public/tadabbur-quran.webp"
 
 interface Props {
   onNavigate: (page: "home" | "books") => void

@@ -1,7 +1,7 @@
 import { useState } from "react"
 import Navbar from "../components/Navbar"
 import Footer from "../components/Footer"
-import lankaImg from "../public/لأنك الله.webp"
+import lankaImg from "../public/lanka-allah.webp"
 
 interface Props {
   onNavigate: (page: "home" | "books") => void
