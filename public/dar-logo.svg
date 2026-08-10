@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0d1e3d"/>
+  <path d="M256 88C256 88 136 152 136 288v96l120 44 120-44v-96C376 152 256 88 256 88Z" fill="none" stroke="#d4a843" stroke-width="18" stroke-linejoin="round"/>
+  <path d="M256 88v340" stroke="#d4a843" stroke-width="14"/>
+  <path d="M136 288h240" stroke="#d4a843" stroke-width="14"/>
+  <text x="256" y="472" font-family="Noto Naskh Arabic, serif" font-size="40" font-weight="600" fill="#ffffff" text-anchor="middle">دار الحضارة</text>
+</svg>

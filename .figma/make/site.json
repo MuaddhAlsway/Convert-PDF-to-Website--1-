@@ -1,6 +1,12 @@
 {
   "title": "دار الحضارة | Dar Alhadara",
   "description": "دار الحضارة للنشر والتوزيع — نشر الكتب والمعرفة من الرياض إلى العالم",
+  "icons": {
+    "icon": "/dar-logo.svg"
+  },
+  "openGraph": {
+    "image": "/dar-logo.svg"
+  },
   "robots": {
     "index": false
   },
