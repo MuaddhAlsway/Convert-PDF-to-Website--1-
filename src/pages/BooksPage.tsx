@@ -1,11 +1,13 @@
 import { useState } from "react"
 import Navbar from "../components/Navbar"
 import Footer from "../components/Footer"
-import iksirImg from "../public/iksir.webp"
-import lankaImg from "../public/lanka-allah.webp"
-import suwarImg from "../public/maalim-al-sur.jpg"
-import thillImg from "../public/althil.webp"
-import tadabburImg from "../public/tadabbur-quran.webp"
+
+const BASE = import.meta.env.BASE_URL
+const iksirImg = `${BASE}iksir.webp`
+const lankaImg = `${BASE}lanka-allah.webp`
+const suwarImg = `${BASE}maalim-al-sur.jpg`
+const thillImg = `${BASE}althil.webp`
+const tadabburImg = `${BASE}tadabbur-quran.webp`
 
 interface Props {
   onNavigate: (page: "home" | "books") => void

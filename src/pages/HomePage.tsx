@@ -1,7 +1,8 @@
 import { useState } from "react"
 import Navbar from "../components/Navbar"
 import Footer from "../components/Footer"
-import lankaImg from "../public/lanka-allah.webp"
+
+const lankaImg = `${import.meta.env.BASE_URL}lanka-allah.webp`
 
 interface Props {
   onNavigate: (page: "home" | "books") => void
