@@ -1,0 +1,10 @@
+{
+  "description": "Converts PDF files into fully matched websites preserving layout and data, enabling easy web publishing and content reuse for professionals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
